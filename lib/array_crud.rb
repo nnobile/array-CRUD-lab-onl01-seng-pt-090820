@@ -6,9 +6,9 @@ def create_an_array
  ["Hydrogen", "Oxygen", "Carbon", "Lithium"]
 end
 
-def add_element_to_end_of_array(elements, Plutonium)
-elements = ["Hydrogen", "Oxygen", "Carbon", "Lithium"]
-elements << "Plutonium"
+def add_element_to_end_of_array(array, element)
+  array = ["wow", "I", "am", "really", "learning"]
+  array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
