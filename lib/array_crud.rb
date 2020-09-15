@@ -6,7 +6,7 @@ def create_an_array
  ["Hydrogen", "Oxygen", "Carbon", "Lithium"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(elements, Plutonium)
 elements = ["Hydrogen", "Oxygen", "Carbon", "Lithium"]
 elements << "Plutonium"
 end
